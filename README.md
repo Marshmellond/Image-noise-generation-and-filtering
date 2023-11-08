@@ -48,7 +48,33 @@
 - 散粒: granular
 
 
-### 环境
+## 环境
 
 - python
-- opencv-python
+- cv2
+
+## 开始使用
+```shell
+│  filterate.py   # 傻狗
+│  generator.py   # 你妈死了
+│  LICENSE
+│  README.md
+│
+├─.idea
+│  │  .gitignore
+│  │  image-noise-generation-and-filtering.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  vcs.xml
+│  │  workspace.xml
+│  │
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│          Project_Default.xml
+│
+├─image
+│      demo.jpg
+│
+└─noise_image
+```
+-- 
