@@ -52,16 +52,15 @@
 - python
 - cv2
 
-## 开始使用
+## 项目结构
 
 ```shell
 ┌Project
-│  filterate.py   # 傻狗
-│  generator.py   # 你妈死了
+├─image
+│      demo.jpg   # 示例图片
+│  filterate.py   # 滤波
+│  generator.py   # 生成噪声
 │  LICENSE
 │  README.md
-├─image
-│      demo.jpg
-│
 └─noise_image
 ```
