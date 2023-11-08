@@ -1,5 +1,5 @@
 <div align="center"><img src="https://s2.loli.net/2023/11/08/yhqKHotF4Rk3276.jpg"></div>
-<div align="center"><h1>图片噪声生成与滤波</h1></div>
+<div align="center"><h1>图片噪声生成</h1></div>
 
 ## 先看效果
 
@@ -7,7 +7,6 @@
 <a href="https://smms.app/image/Um1zMvlkgSGsC26" target="_blank"><img src="https://s2.loli.net/2023/11/08/Um1zMvlkgSGsC26.jpg" ></a>
 <a href="https://smms.app/image/v1AdDPwUX2siBQW" target="_blank"><img src="https://s2.loli.net/2023/11/08/v1AdDPwUX2siBQW.jpg" ></a>
 <a href="https://smms.app/image/WqQs3t9KeDYyGNu" target="_blank"><img src="https://s2.loli.net/2023/11/08/WqQs3t9KeDYyGNu.jpg" ></a>
-<a href="https://smms.app/image/AlbG51L7mHcEFpQ" target="_blank"><img src="https://s2.loli.net/2023/11/08/AlbG51L7mHcEFpQ.jpg" ></a>
 <a href="https://smms.app/image/S7rJVMxYD9qPcbd" target="_blank"><img src="https://s2.loli.net/2023/11/08/S7rJVMxYD9qPcbd.jpg" ></a>
 <a href="https://smms.app/image/IXeQnAiEHp1tZ4o" target="_blank"><img src="https://s2.loli.net/2023/11/08/IXeQnAiEHp1tZ4o.jpg" ></a>
 <a href="https://smms.app/image/5TD6lOSU8ABHjQy" target="_blank"><img src="https://s2.loli.net/2023/11/08/5TD6lOSU8ABHjQy.jpg" ></a>
@@ -16,6 +15,7 @@
 <a href="https://smms.app/image/KNmHhpuCU9LxSEG" target="_blank"><img src="https://s2.loli.net/2023/11/08/KNmHhpuCU9LxSEG.jpg" ></a>
 <a href="https://smms.app/image/hsB162jdQHwReT9" target="_blank"><img src="https://s2.loli.net/2023/11/08/hsB162jdQHwReT9.jpg" ></a>
 <a href="https://smms.app/image/b9UWQDveXlcpCyK" target="_blank"><img src="https://s2.loli.net/2023/11/08/b9UWQDveXlcpCyK.jpg" ></a>
+<a href="https://smms.app/image/DMuoyizcUWBIgJY" target="_blank"><img src="https://s2.loli.net/2023/11/08/DMuoyizcUWBIgJY.jpg" ></a>
 <a href="https://smms.app/image/LaZMIGF75UfNDAb" target="_blank"><img src="https://s2.loli.net/2023/11/08/LaZMIGF75UfNDAb.jpg" ></a>
 <a href="https://smms.app/image/geMk9K7c8AUDBFE" target="_blank"><img src="https://s2.loli.net/2023/11/08/geMk9K7c8AUDBFE.jpg" ></a>
 
@@ -50,17 +50,15 @@
 ## 环境
 
 - python
+- numpy
 - cv2
 
 ## 项目结构
 
 ```shell
 ┌Project
-├─image
-│      demo.jpg   # 示例图片
-│  filterate.py   # 滤波
-│  generator.py   # 生成噪声
-│  LICENSE
-│  README.md
-└─noise_image
+├─image  源文件夹
+│      demo.jpg  示例图片
+│  generator.py  生成噪声
+└─noise_image  噪声文件夹
 ```

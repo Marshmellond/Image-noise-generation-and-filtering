@@ -363,7 +363,7 @@ def scanline(old_path, new_path, file, noise_type):
             image = cv2.imread(img_path)
             #  +---------------------------------------------------------------+
             num_lines = np.random.randint(5, 20)  # 随机扫描线的数量
-            line_thickness = np.random.randint(0, 1)  # 随机扫描线的宽度
+            line_thickness = np.random.randint(1, 3)  # 随机扫描线的宽度
             line_color = (0, 0, 0)  # 扫描线的颜色
             orientation = 'horizontal'  # 扫描线的方向[horizontal水平/vertical垂直]
             #  +---------------------------------------------------------------+
@@ -516,8 +516,8 @@ def gamma(old_path, new_path, file, noise_type):
         try:
             image = cv2.imread(img_path)
             #  +---------------------------------------------------------------+
-            gamma_shape = np.random.randint(2, 10)  # 随机伽马分布的形状
-            gamma_scale = np.random.randint(2, 10)  # 随机伽马分布的尺度
+            gamma_shape = np.random.randint(2, 20)  # 随机伽马分布的形状
+            gamma_scale = np.random.randint(2, 20)  # 随机伽马分布的尺度
             #  +---------------------------------------------------------------+
             noisy_image = np.copy(image)
             height, width, channels = image.shape
@@ -707,5 +707,5 @@ if __name__ == '__main__':
     指数分布:exponential
     散粒:granular
     """
-    noise = "granular"  # 选择噪声类型
-    main("./image/", f"./noise_image/", noise)
+    noise = "gaussian"  # 选择噪声类型
+    main("./image/", f"./noise_image/", noise)  # 路径结尾处请加上/
