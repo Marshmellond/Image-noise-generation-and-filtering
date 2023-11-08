@@ -16,3 +16,31 @@
 <a href="https://smms.app/image/b9UWQDveXlcpCyK" target="_blank"><img src="https://s2.loli.net/2023/11/08/b9UWQDveXlcpCyK.jpg" ></a>
 <a href="https://smms.app/image/LaZMIGF75UfNDAb" target="_blank"><img src="https://s2.loli.net/2023/11/08/LaZMIGF75UfNDAb.jpg" ></a>
 <a href="https://smms.app/image/geMk9K7c8AUDBFE" target="_blank"><img src="https://s2.loli.net/2023/11/08/geMk9K7c8AUDBFE.jpg" ></a>
+<h2>支持生成噪声</h2>
+<ul>
+    <li>高斯: gaussian</li>
+    <li>椒盐: salt_and_pepper</li>
+    <li>雪花: snow</li>
+    <li>斑点: spot</li>
+    <li>波纹: corrugation</li>
+    <li>泊松: poisson</li>
+    <li>模糊: vague</li>
+    <li>线条: line</li>
+    <li>彩色: color</li>
+    <li>渐变: gradient</li>
+    <li>均匀: uniform</li>
+    <li>色带: banding</li>
+    <li>堆叠: stacking</li>
+    <li>阴影: shadow</li>
+    <li>扫描线: scanline</li>
+    <li>震动: jitter</li>
+    <li>剪影: silhouette</li>
+    <li>镜头光晕: lens_flare</li>
+    <li>光线散射: light_scattering</li>
+    <li>网格: grid</li>
+    <li>伽马: gamma</li>
+    <li>乘性: multiplicative</li>
+    <li>瑞利: rayleigh</li>
+    <li>指数分布: exponential</li>
+    <li>散粒: granular</li>
+</ul>
