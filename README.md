@@ -1,35 +1,20 @@
 <div align="center"><img src="https://s2.loli.net/2023/11/08/yhqKHotF4Rk3276.jpg"></div>
-<div align="center"><h1>超星学习通每日作业提醒</h1><h3>定时自动发送至邮箱，靠别忘记作业烦恼</h3></div>
-<hr />
-<h1>作用</h1>
-<ul>
-  <li>解放时间，提高效率</li>
-  <li>支持未完成的作业，考试，任务提醒</li>
-</ul>
-<h1>效果图</h1>
-
-![cda48e89-e9ad-4dcc-a2e9-9fa566c3a075.png](https://s2.loli.net/2023/05/09/8dAiaeKnPvtHsfg.png)
-<h1>环境</h1>
-<ul>
-  <li>python3.11</li>
-  <li>requests</li>
-  <li>bs4</li>
-  <li>lxml</li>
-  <li>fake_useragent</li>
-</ul>
-<h1>开始使用</h1>
-下载Xuexitong.py，配置以下信息
-<ul>
-  <li>邮箱email</li>
-  <li>邮箱服务器地址</li>
-  <li>邮箱用户名</li>
-  <li>邮箱授权码</li>
-  <li>["超星学习通账号", "超星学习通密码", "收件人邮箱", "用户名"]</li>
-</ul>
-<pre>python3 /path/Xuexitong.py</pre>
-<h1>定时执行</h1>
-<ul>
-  <li>宝塔面板计划任务</li>
-  <li>1panel计划任务</li>
-  <li>云函数</li>
-</ul>
+<div align="center"><h1>图片噪声生成与滤波</h1></div>
+<h2>先看效果</h2>
+<a href="https://smms.app/image/SQ3YhrsePCno2E8" target="_blank"><img src="https://s2.loli.net/2023/11/08/SQ3YhrsePCno2E8.jpg" ></a>
+<a href="https://smms.app/image/Um1zMvlkgSGsC26" target="_blank"><img src="https://s2.loli.net/2023/11/08/Um1zMvlkgSGsC26.jpg" ></a>
+<a href="https://smms.app/image/Jk1PsCy65a8RBXe" target="_blank"><img src="https://s2.loli.net/2023/11/08/Jk1PsCy65a8RBXe.jpg" ></a>
+<a href="https://smms.app/image/v1AdDPwUX2siBQW" target="_blank"><img src="https://s2.loli.net/2023/11/08/v1AdDPwUX2siBQW.jpg" ></a>
+<a href="https://smms.app/image/WqQs3t9KeDYyGNu" target="_blank"><img src="https://s2.loli.net/2023/11/08/WqQs3t9KeDYyGNu.jpg" ></a>
+<a href="https://smms.app/image/AlbG51L7mHcEFpQ" target="_blank"><img src="https://s2.loli.net/2023/11/08/AlbG51L7mHcEFpQ.jpg" ></a>
+<a href="https://smms.app/image/S7rJVMxYD9qPcbd" target="_blank"><img src="https://s2.loli.net/2023/11/08/S7rJVMxYD9qPcbd.jpg" ></a>
+<a href="https://smms.app/image/IXeQnAiEHp1tZ4o" target="_blank"><img src="https://s2.loli.net/2023/11/08/IXeQnAiEHp1tZ4o.jpg" ></a>
+<a href="https://smms.app/image/5TD6lOSU8ABHjQy" target="_blank"><img src="https://s2.loli.net/2023/11/08/5TD6lOSU8ABHjQy.jpg" ></a>
+<a href="https://smms.app/image/DoU43ZETNzI6vmQ" target="_blank"><img src="https://s2.loli.net/2023/11/08/DoU43ZETNzI6vmQ.jpg" ></a>
+<a href="https://smms.app/image/uAUOJ3ZyRbMeK7G" target="_blank"><img src="https://s2.loli.net/2023/11/08/uAUOJ3ZyRbMeK7G.jpg" ></a>
+<a href="https://smms.app/image/KNmHhpuCU9LxSEG" target="_blank"><img src="https://s2.loli.net/2023/11/08/KNmHhpuCU9LxSEG.jpg" ></a>
+<a href="https://smms.app/image/hsB162jdQHwReT9" target="_blank"><img src="https://s2.loli.net/2023/11/08/hsB162jdQHwReT9.jpg" ></a>
+<a href="https://smms.app/image/b9UWQDveXlcpCyK" target="_blank"><img src="https://s2.loli.net/2023/11/08/b9UWQDveXlcpCyK.jpg" ></a>
+<a href="https://smms.app/image/LaZMIGF75UfNDAb" target="_blank"><img src="https://s2.loli.net/2023/11/08/LaZMIGF75UfNDAb.jpg" ></a>
+<a href="https://smms.app/image/geMk9K7c8AUDBFE" target="_blank"><img src="https://s2.loli.net/2023/11/08/geMk9K7c8AUDBFE.jpg" ></a>
+<a href="https://smms.app/image/PbyeMtfGZXnVaSk" target="_blank"><img src="https://s2.loli.net/2023/11/08/PbyeMtfGZXnVaSk.jpg" ></a>
