@@ -1,9 +1,6 @@
 <div align="center"><img src="https://s2.loli.net/2023/11/08/yhqKHotF4Rk3276.jpg"></div>
 <div align="center"><h1>图片噪声生成与滤波</h1></div>
 
-# 特别声明 这是我儿子写的项目 我是他爹D5v先生 
-# [d5v.cc](https://d5v.cc)
-
 ## 先看效果
 
 <a href="https://smms.app/image/SQ3YhrsePCno2E8" target="_blank"><img src="https://s2.loli.net/2023/11/08/SQ3YhrsePCno2E8.jpg" ></a>
@@ -50,34 +47,21 @@
 - 指数分布: exponential
 - 散粒: granular
 
-
 ## 环境
 
 - python
 - cv2
 
 ## 开始使用
+
 ```shell
+┌Project
 │  filterate.py   # 傻狗
 │  generator.py   # 你妈死了
 │  LICENSE
 │  README.md
-│
-├─.idea
-│  │  .gitignore
-│  │  image-noise-generation-and-filtering.iml
-│  │  misc.xml
-│  │  modules.xml
-│  │  vcs.xml
-│  │  workspace.xml
-│  │
-│  └─inspectionProfiles
-│          profiles_settings.xml
-│          Project_Default.xml
-│
 ├─image
 │      demo.jpg
 │
 └─noise_image
 ```
--- 
