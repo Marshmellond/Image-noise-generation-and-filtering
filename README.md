@@ -3,7 +3,6 @@
 <h2>先看效果</h2>
 <a href="https://smms.app/image/SQ3YhrsePCno2E8" target="_blank"><img src="https://s2.loli.net/2023/11/08/SQ3YhrsePCno2E8.jpg" ></a>
 <a href="https://smms.app/image/Um1zMvlkgSGsC26" target="_blank"><img src="https://s2.loli.net/2023/11/08/Um1zMvlkgSGsC26.jpg" ></a>
-<a href="https://smms.app/image/Jk1PsCy65a8RBXe" target="_blank"><img src="https://s2.loli.net/2023/11/08/Jk1PsCy65a8RBXe.jpg" ></a>
 <a href="https://smms.app/image/v1AdDPwUX2siBQW" target="_blank"><img src="https://s2.loli.net/2023/11/08/v1AdDPwUX2siBQW.jpg" ></a>
 <a href="https://smms.app/image/WqQs3t9KeDYyGNu" target="_blank"><img src="https://s2.loli.net/2023/11/08/WqQs3t9KeDYyGNu.jpg" ></a>
 <a href="https://smms.app/image/AlbG51L7mHcEFpQ" target="_blank"><img src="https://s2.loli.net/2023/11/08/AlbG51L7mHcEFpQ.jpg" ></a>
@@ -17,4 +16,3 @@
 <a href="https://smms.app/image/b9UWQDveXlcpCyK" target="_blank"><img src="https://s2.loli.net/2023/11/08/b9UWQDveXlcpCyK.jpg" ></a>
 <a href="https://smms.app/image/LaZMIGF75UfNDAb" target="_blank"><img src="https://s2.loli.net/2023/11/08/LaZMIGF75UfNDAb.jpg" ></a>
 <a href="https://smms.app/image/geMk9K7c8AUDBFE" target="_blank"><img src="https://s2.loli.net/2023/11/08/geMk9K7c8AUDBFE.jpg" ></a>
-<a href="https://smms.app/image/PbyeMtfGZXnVaSk" target="_blank"><img src="https://s2.loli.net/2023/11/08/PbyeMtfGZXnVaSk.jpg" ></a>
