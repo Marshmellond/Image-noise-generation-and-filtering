@@ -707,5 +707,6 @@ if __name__ == '__main__':
     指数分布:exponential
     散粒:granular
     """
+    # 每个函数都已标注噪声强度修改处
     noise = "gaussian"  # 选择噪声类型
     main("./image/", f"./noise_image/", noise)  # 路径结尾处请加上/
