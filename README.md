@@ -52,7 +52,7 @@
 
 ## 环境
 
-- python
+- python3
 - numpy
 - cv2
 
